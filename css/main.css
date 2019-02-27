@@ -99,9 +99,12 @@ main button.fixAlign {
     margin: 0 15px;
 }
 
-main
-
 /* Footer section */
+footer ul li {
+    background-color: #f2f2f2;
+    color: rgba(0,0,0,.54);
+}
+
 .left {
     float: left;
 }
