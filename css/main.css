@@ -79,7 +79,27 @@ li img {
 
 /* Main section */
 
+main {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
 
+main input {
+    margin: 30px 30px 20px 30px;
+    width: 400px;
+    height: 30px;
+}
+
+main button {
+    margin: 0 5px 10px 5px;
+}
+
+main button.fixAlign {
+    margin: 0 15px;
+}
+
+main
 
 /* Footer section */
 .left {
