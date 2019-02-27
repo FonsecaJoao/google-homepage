@@ -1,9 +1,18 @@
-body {
+html, body {
     font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.grid{
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-rows: 1fr 8fr 1fr;
 }
 
 header {
-    float: right;
+    text-align: right;
 }
 
 li {
@@ -11,8 +20,8 @@ li {
     display: inline;
 }
 
-footer {
-    position: fixed;
+footer {  
+
 }
 
 .left {
