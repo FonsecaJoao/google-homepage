@@ -12,6 +12,8 @@ html, body {
     grid-template-rows: 1fr 8fr 1fr;
 }
 
+/* Header section */
+
 header {
     text-align: right;
     vertical-align: middle;
@@ -20,10 +22,6 @@ header {
 li {
     list-style-type: none;
     display: inline;
-}
-
-footer {  
-
 }
 
 nav {
@@ -79,6 +77,11 @@ li img {
     margin-top: 3px;
 }
 
+/* Main section */
+
+
+
+/* Footer section */
 .left {
     float: left;
 }
