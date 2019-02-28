@@ -34,19 +34,21 @@ ul.head {
 
 ul.head li {
     padding: 0 5px;
-    height: 30px;
+	height: 30px;
+	margin-right: 5px;
 }
 
 nav ul li.button {
     border: 1px solid #4285f4;
-    border-radius: 5px;
+    border-radius: 2px;
     font-weight: bold;
     outline: none;
     background: #4285f4;
     background: -moz-linear-gradient(top,#4387fd,#4683ea);
     background: linear-gradient(top,#4387fd,#4683ea);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4387fd,endColorstr=#4683ea,GradientType=0);
-    padding: 6px 5px 6px 5px;
+	padding: 6px 5px 6px 5px;
+	margin-right: 35px;
 }
 
 li.button a {
@@ -87,12 +89,13 @@ main {
 
 main input {
     margin: 30px 30px 20px 30px;
-    width: 400px;
+    width: 550px;
     height: 30px;
 }
 
 main button {
-    margin: 0 5px 10px 5px;
+	margin: 0 5px 10px 5px;
+	padding: 5px;
 }
 
 main button.fixAlign {
