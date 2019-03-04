@@ -45,7 +45,7 @@ nav ul li.button {
     outline: none;
     background: #4285f4;
     background: -moz-linear-gradient(top,#4387fd,#4683ea);
-    background: linear-gradient(top,#4387fd,#4683ea);
+    background: linear-gradient(to top,#4387fd,#4683ea);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4387fd,endColorstr=#4683ea,GradientType=0);
 	padding: 6px 5px 6px 5px;
 	margin-right: 35px;
